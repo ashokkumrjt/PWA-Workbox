@@ -1,0 +1,11 @@
+body {
+    font-family: "Arial";
+    color: grey;
+}
+main {
+    max-width: 500px;
+}
+
+img {
+    width: 100%;
+}
